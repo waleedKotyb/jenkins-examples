@@ -1,1 +1,1 @@
-# jenkins-examples
+# jenkins-example
